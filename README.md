@@ -20,7 +20,7 @@
 
 📦 Installation
 1️⃣ Clone the Repository
-  git clone https://github.com/your-username/caesar-cipher-gui.git
+  git clone https://github.com/KingAtomic7/Modern_Caesar_Cipher_GUI.git
   cd caesar-cipher-gui
 
 2️⃣ Install Dependencies
