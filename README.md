@@ -46,33 +46,6 @@
     ├── README.md              # Project documentation
     └── requirements.txt       # (Optional) dependencies
 
-🚀 Future Improvements
-
-🌗 Light/Dark mode toggle
-
-📋 Copy-to-clipboard button
-
-📁 File encryption support
-
-🔍 Brute-force decryption mode
-
-📦 Convert to executable (.exe)
-
-🌐 Web-based version
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the project
-
-Create your feature branch (git checkout -b feature-name)
-
-Commit your changes
-
-Push to the branch
-
-Open a Pull Request
 
 📜 License
 
